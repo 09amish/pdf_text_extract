@@ -27,8 +27,8 @@ git clone https://github.com/your-username/pdf-to-text-extractor.git
 - [Click](https://github.com/pallets/click)
 
 3. Screenshots
-   ![Screenshot 1](https://imgur.com/LdOF9yu)
-   ![Screenshot 2](https://imgur.com/qQhPdgT)
+   ![Screenshot 1](https://i.imgur.com/LdOF9yu.png)
+   ![Screenshot 2](https://i.imgur.com/qQhPdgT.png)
 
 
 This README provides an overview of the project, installation instructions, usage guidelines, and information on contributing and licensing. Feel free to customize it further to suit your project's specific features and requirements!
