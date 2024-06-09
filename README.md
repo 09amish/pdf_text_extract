@@ -1,36 +1,38 @@
-# Project Title
+# PDF to Text Extractor
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Brief description of your project. Explain what it does, why it's useful, and who it's for.
+PDF to Text Extractor is a Python-based tool that extracts text content from PDF files. It helps convert PDF documents into machine-readable text, making it easier to analyze, search, and process the textual content.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots/Demo
-
-![Screenshot](/path/to/screenshot.png)
-
-[Demo](https://www.example.com)
+- Extracts text from PDF files.
+- Handles multiple pages and complex layouts.
+- Supports both scanned PDFs and text-based PDFs.
+- Provides clean and formatted text output.
+- Easy to integrate into other applications.
 
 ## Installation
 
-1. Clone the repository.
-2. Install dependencies: `npm install` or `pip install -r requirements.txt`.
-3. Configure the environment variables.
-4. Run the application: `npm start` or `python app.py`.
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/pdf-to-text-extractor.git
+```
+2. Install dependencies:
 
-## Usage
+- [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+- [Streamlit](https://github.com/streamlit/streamlit)
+- [Click](https://github.com/pallets/click)
 
-Provide examples and instructions for using your project. Include code snippets if applicable.
+3. Screenshots
+   ![Screenshot 1](https://imgur.com/LdOF9yu)
+   ![Screenshot 2](https://imgur.com/qQhPdgT)
 
-```python
-import my_module
 
-result = my_module.my_function()
-print(result)
+This README provides an overview of the project, installation instructions, usage guidelines, and information on contributing and licensing. Feel free to customize it further to suit your project's specific features and requirements!
+
+
+
+
