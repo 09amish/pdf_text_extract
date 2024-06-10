@@ -24,7 +24,7 @@ git clone https://github.com/09amish/pdf-to-text-extractor.git
 
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 - [Streamlit](https://github.com/streamlit/streamlit)
-- [Click](https://github.com/pallets/click)
+- [Tesserect OCR](https://github.com/tesseract-ocr/tesseract)
 
 3. Screenshots
    ![Screenshot 1](https://i.imgur.com/LdOF9yu.png)
