@@ -18,7 +18,7 @@ PDF to Text Extractor is a Python-based tool that extracts text content from PDF
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pdf-to-text-extractor.git
+git clone https://github.com/09amish/pdf-to-text-extractor.git
 ```
 2. Install dependencies:
 
