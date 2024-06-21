@@ -1,10 +1,10 @@
 # PDF to Text Extractor
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-## Description
+## Overview
 
 PDF to Text Extractor is a Python-based tool that extracts text content from PDF files. It helps convert PDF documents into machine-readable text, making it easier to analyze, search, and process the textual content.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
 
